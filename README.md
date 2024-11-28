@@ -1,13 +1,9 @@
-# SMPaste 
+# Clipboard
  A tool to perform clipboard poisoning or paste jacking attack. There are many tools for performing this type of attack but I found most of them are dead and none of them provides user to use their own html files, so I came up with this. 
 
   
  ## What's Clipboard Poisoning or PasteJacking ? 
  Browsers now allow developers to automatically add content to a user's clipboard and the attacker exploits this feature. It is a type of attack where the malicious websites take control of your device's clipboard and replace it's content to something harmful without your knowledge.</br>This method can be used to entice users into running seemingly innocent commands. The malicious code will override the innocent code, and the attacker can gain remote code execution on the user's host if the user pastes the contents into the terminal. 
-  
- ## Screenshot 
- <img src="![Screenshot_20231023-205430~2](https://github.com/thedeveloper03/smpaste/assets/123274423/85b9f3b0-f171-495d-b0d0-e383e92b9c44)
-" width="100%"></img> 
   
  ## Usage 
  + Enter command to inject :</br> 
@@ -23,9 +19,9 @@
   
  ### Installing 
  ``` 
- ~ ❯❯❯ git clone https://github.com/thedeveloper03/smpaste.git 
+ ~ ❯❯❯ git clone https://github.com/pixelPusher03/clipboard.git 
   
- ~ ❯❯❯ cd smpaste
+ ~ ❯❯❯ cd clipboard
   
  ~ ❯❯❯ chmod +x smpaste.sh 
   
