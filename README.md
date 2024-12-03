@@ -20,11 +20,14 @@
  ### Installing 
  ``` 
  ~ ❯❯❯ git clone https://github.com/pixelPusher03/clipboard.git 
-  
+  ```
+```
  ~ ❯❯❯ cd clipboard
-  
+  ```
+```
  ~ ❯❯❯ chmod +x smpaste.sh 
-  
+  ```
+```
  ~ ❯❯❯ ./smpaste.sh 
  ``` 
    
